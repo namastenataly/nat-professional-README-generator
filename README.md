@@ -35,3 +35,7 @@ Run test with "npm test"
 If you have any questions, please feel free to contact me:
 - GitHub: [Namastenataly](https://github.com/Namastenataly)
 - Email: msnatalygonza@gmail.com
+
+## References 
+<a href="https://stackoverflow.com/questions/74733711/passing-in-a-result-of-a-function-to-generate-readme">Stack Overflow</a>
+<a href="https://dev.to/kefranabg/generate-beautiful-readme-in-10-seconds-38i2">Dev Tools</a>
